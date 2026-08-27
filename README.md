@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Fredy 👋
 
-<!--
-**fc112/fc112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technical Talent Partner focused on AI/ML and the engineering systems behind production AI.
 
-Here are some ideas to get you started:
+My recruiting experience spans AI Engineering, machine learning, LLM and agentic systems, MLOps, platform engineering, SRE, distributed systems, cloud infrastructure, data, and technical leadership.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use GitHub to stay close to the engineering community, learn how technologies are being built and adopted, understand emerging technical domains, and discover engineers doing interesting work.
+
+## Areas I'm focused on
+
+- AI / Machine Learning
+- LLM & Agentic Systems
+- MLOps / AI Platforms
+- Platform Engineering
+- Kubernetes & Cloud Infrastructure
+- SRE / Distributed Systems
+- GPU & HPC Infrastructure
+
+Always interested in learning from the people building the technology.
